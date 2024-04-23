@@ -39,16 +39,16 @@ This Python-based Library Management System allows for comprehensive management 
 7. *Exit to Borrower Menu*: Switches the user from the admin to the borrower menu.
 
 #### Borrower Menu
-1. *View Books List*: Lists all books, indicating availability.
-2. *View Unavailable/Borrowed Books List*: Lists books that are not available for borrowing.
+1. *View Books List*: Displays all the books in the library.
+2. *View Unavailable/Borrowed Books List*: Shows books that are currently borrowed.
 3. *Search and Borrow Book*: Search for books by keywords and borrow immediately.
 4. *Borrow Book*: Initiates the borrowing process for a selected book.
 5. *Return Book*: Returns a previously borrowed book.
-6. *Exit to Admin Menu*: Changes the role to administrator after password verification.
+6. *Exit to Admin Menu*: Changes the role to admin after password verification.
 
 ### Usage
 
-1. *Run the main script*: Start the program by running the Python script.
+1. *Run the main script*: Start the program by running the Python script (main.py).
 2. *Choose your role*: Type 'admin' or 'borrower' at the prompt. If 'admin', provide the required password.
 3. *Navigate through the menu*: Use the numbered options to perform actions like viewing, adding, updating, or deleting books (as an admin) or browsing and managing borrowings (as a borrower).
 4. *Switch roles or exit*: At any point, switch roles or type 'exit' to close the program.
