@@ -1,5 +1,5 @@
 ## Library Management System 
-## (Capstone Project Module 1 - DTIDS Purwadhika)
+(Capstone Project Module 1 - DTIDS Purwadhika)
 
 This Python-based Library Management System allows for comprehensive management of library books and user interaction in two main roles: Administrator and Borrower. Each role is equipped with specific functionalities to streamline the management and borrowing of books.
 
